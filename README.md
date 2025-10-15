@@ -10,7 +10,8 @@ Mesmo sendo fortemente inspirado no clássico Arduino UNO, este design foi elabo
 📐 Esquemático
 Abaixo está uma visão geral do diagrama esquemático, que detalha a interconexão entre o microcontrolador ATmega328P, o circuito de comunicação USB (CH340G), os leds indicadores e os blocos de alimentação e clock.
 
-<img width="1304" height="888" alt="image" src="https://github.com/user-attachments/assets/e4ac53fa-4015-4020-990c-ac98949b5bfa" />
+<img width="1311" height="890" alt="image" src="https://github.com/user-attachments/assets/250a2a1d-d04f-453a-b29c-bba53ba2ba7b" />
+
 
 🛠️ Próximos Passos
 Geração dos arquivos finais de fabricação (Gerber, BOM, etc.).
