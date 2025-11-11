@@ -2,18 +2,18 @@ Artuino UNO ⚡
 
 Placa de microcontrolador open hardware 100% compatível com o Arduino UNO, baseada no ATmega328P-PU e projetada com KiCad.
 
-💡 Sobre o Projeto
+💡 Sobre o Projeto<br>
 Este projeto, carinhosamente nomeado Artuino UNO (Arthur + Arduino + UNO), nasceu do meu interesse pessoal em eletrônica, como estudante de Engenharia da Computação. O objetivo principal foi ir além do uso de plataformas prontas, vivenciando a experiência de fabricar uma placa própria do zero.
 
 Mesmo sendo fortemente inspirado no clássico Arduino UNO, este design foi elaborado com o máximo de atenção aos detalhes e boas práticas, buscando gerar o maior aprendizado possível no processo de desenvolvimento de hardware. Este é meu primeiro projeto completo de PCB feito por hobby e está em constante evolução.
 
-📐 Esquemático
+📐 Esquemático<br>
 Abaixo está uma visão geral do diagrama esquemático, que detalha a interconexão entre o microcontrolador ATmega328P, o circuito de comunicação USB (CH340G), os leds indicadores e os blocos de alimentação e clock.
 
 <img width="1311" height="890" alt="image" src="https://github.com/user-attachments/assets/250a2a1d-d04f-453a-b29c-bba53ba2ba7b" />
 
 
-🛠️ Próximos Passos
+🛠️ Próximos Passos<br>
 Geração dos arquivos finais de fabricação (Gerber, BOM, etc.).
 
 Envio para fabricação da PCB.
@@ -22,5 +22,5 @@ Montagem e testes iniciais.
 
 Gravação do bootloader e testes de programação via USB.
 
-🤝 Contribuições
+🤝 Contribuições<br> 
 Contribuições, sugestões e críticas construtivas são sempre bem-vindas, especialmente em um projeto de aprendizado como este.
